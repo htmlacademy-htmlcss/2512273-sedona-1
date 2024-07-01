@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss-individual/1/user/2512273).
-* Наставник: Виктория Никитина.
+* Студент: [Алия Коломеец](https://up.htmlacademy.ru/htmlcss-individual/1/user/2512273)
+* Наставник: [Виктория Никитина](https://up.htmlacademy.ru/htmlcss-individual/1/user/2512273)
 
 ---
 
